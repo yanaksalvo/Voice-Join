@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.1",
+    "discord.js-self": "^12.0.4",
+    "discord.js-selfbot": "^12.0.2",
+    "fs": "^0.0.1-security"
+  }
+}
